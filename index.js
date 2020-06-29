@@ -5,4 +5,4 @@ const prepend = ["Milo", "Otis", "Garfield"]
 
 
 append.push("Odie")
-prepend.push
+pushprepend.
